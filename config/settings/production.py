@@ -6,7 +6,7 @@ import os
 DEBUG = False
 
 
-ALLOWED_HOSTS = ['flynnt-knapp-djangostarter-elzinga.herokuapp.com']
+ALLOWED_HOSTS = ['flynnt-djangostarter-elzinga.herokuapp.com']
 
 
 MIDDLEWARE = MIDDLEWARE + ['whitenoise.middleware.WhiteNoiseMiddleware']
